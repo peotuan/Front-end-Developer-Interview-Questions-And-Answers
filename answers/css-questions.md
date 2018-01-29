@@ -1,8 +1,8 @@
 # CSS Questions
 
 #### What is the difference between classes and ID's in CSS?
-
-*Not answered yet*
+Each element can have only one ID and each page can have only one element with that ID
+We can use the same class on multiple elements, and multiple classes on the same element.
 
 #### What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
 
